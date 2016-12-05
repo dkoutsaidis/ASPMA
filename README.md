@@ -7,4 +7,4 @@ In order to compile and use these codes you have to download ["sms-tools"](https
 
 
 ## Disclaimer
-My purposes in this repository are to share my work with other programmers and attendants of the course in order to get feedback about improving and upgrading my codes as well as discussing my implementations. I have no intention to provide cheat answers for the course assignments and Ι do not urge anyone to do it.
+My purposes in this repository are to share my work with other programmers and attendants of the course in order to get feedback about improving and upgrading my codes as well as discussing my implementations. I have no intention to provide cheat answers for the course assignments and I do not urge anyone to use my code that way.
