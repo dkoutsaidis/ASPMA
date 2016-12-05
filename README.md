@@ -1,5 +1,6 @@
 # ASPMA
-All of my assignment python codes for the "Audio Signal Processing for Music Applications" course @ Coursera.org
+"Audio Signal Processing for Music Applications" course @ Coursera.org
+All of my python codes for the assignments.
 
 How to use
 ----------
