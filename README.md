@@ -1,5 +1,5 @@
-## ["Audio Signal Processing for Music Applications"](https://www.coursera.org/learn/audio-signal-processing)
-In this repository i include all of my python codes for the course assignments.
+## "Audio Signal Processing for Music Applications"
+In this repository i include all of my python codes for the [course](https://www.coursera.org/learn/audio-signal-processing) assignments.
 
 
 ## How to use
